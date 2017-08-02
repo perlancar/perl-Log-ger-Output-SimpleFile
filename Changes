@@ -1,3 +1,4 @@
 0.001    2017-07-14 (PERLANCAR)
 
-         - First release.
+         - First release, forked from LGO-File so we can become the simple
+           barebones version when LGO-File adds new features.
